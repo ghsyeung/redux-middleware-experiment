@@ -1,0 +1,16 @@
+{
+  "name": "redux-middleware-experiment",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test:watch": "ava -w"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
